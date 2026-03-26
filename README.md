@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>IT Coordinator | Infrastructure | Post Production Workflow</h3>
-  <p><i>Building robust systems, automating workflows, and exploring the intersection of media and technology.</i></p>
+  <p><i>Bridging IT, Post Production & Code — One Vibe at a Time</i></p>
 </div>
 
 ---
